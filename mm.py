@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title("🔌 Metadata Viewer (Powered by Connector)")
+st.title("🔌 Metadata Viewer ")
 
 account = st.sidebar.text_input("Account")
 user = st.sidebar.text_input("User")
