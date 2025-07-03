@@ -1,5 +1,5 @@
 import streamlit as st
-##from metadata_connector import get_metadata_from_snowflake
+
 
 st.title("🔌 Metadata Viewer (Powered by Connector)")
 
